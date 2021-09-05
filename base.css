@@ -1,0 +1,27 @@
+button.bt1{
+    border: 0px;
+    background-color: #DCDCDC;
+    padding: 10px 10px;
+    margin-left: 10px;
+    border-radius: 15px;
+    color: black;
+    font-size: 17px;
+    z-index: 2;
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color: rgb(96, 187, 149);
+    color: white;
+}
+.header{
+    padding: 20px;
+}
+body{
+    font-family: Andale Mono, monospace;
+    background-color: #DCDCDC;
+}
+.about{
+    padding-right: 30px;
+    z-index: 4;
+}
